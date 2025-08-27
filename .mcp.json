@@ -1,0 +1,58 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/filesystem.sh"
+    },
+    "github": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/github.sh"
+    },
+    "memory": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/memory.sh"
+    },
+    "everything": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/everything.sh"
+    },
+    "sequential-thinking": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/sequential-thinking.sh"
+    },
+    "playwright": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/playwright.sh"
+    },
+    "gitmcp-sutazai": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/gitmcp-sutazai.sh"
+    },
+    "gitmcp-anthropic": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/gitmcp-anthropic.sh"
+    },
+    "gitmcp-docs": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/gitmcp-docs.sh"
+    },
+    "claude-flow": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/claude-flow.sh"
+    },
+    "ruv-swarm": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/ruv-swarm.sh"
+    },
+    "context7": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/context7.sh"
+    },
+    "ddg": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/ddg.sh"
+    },
+    "http-fetch": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/http-fetch.sh"
+    },
+    "extended-memory": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/extended-memory.sh"
+    },
+    "memory-bank": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/memory-bank.sh"
+    },
+    "code-index": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/code-index.sh"
+    },
+    "github-project-manager": {
+      "command": "/opt/sutazaiapp/scripts/mcp/wrappers/github-project-manager.sh"
+    }
+  }
+}
